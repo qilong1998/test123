@@ -1,3 +1,7 @@
 body{
     background-color: aqua;
 }
+h1{
+    margin: 0;
+    padding: 0;
+}
